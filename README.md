@@ -145,4 +145,4 @@ pip install tensorflow opencv-python matplotlib gradio kagglehub
 
 **📊 Using DCGAN-based augmentation improved CNN accuracy from 80.61% → 86.38% (~6%)**
 
-**🤖 Developed with passion by Nakul — Advancing Deep Learning for Medical Imaging**
+**🤖 Developed by Namish**
